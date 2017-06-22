@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WingMan</string>
+
+    <string name="title_activity_principal">Principal</string>
+    <string name="time_to_play_cupid">Time to play cupid.</string>
+    <string name="we_don_t_post_anything_to_facebook">We don\' t post anything to Facebook</string>
+    <string name="connect_whit_facebook">CONNECT WHIT FACEBOOK</string>
+    <string name="eula">EULA</string>
+    <string name="by_signing_up_i_agree_to_wingmans_s">By signing up, i agree to Wingmans´s</string>
+    <string name="sms_verification">SMS Verification</string>
+    <string name="uk_44">UK + 44</string>
+    <string name="wingman_needs_to_check_you_are_not_a_robot">WingMan needs to check you are not a robot.</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="great_enter_the_sms_verification_code_and_let_s_get_started">Great. Enter the SMS verification code and let\'s get started.</string>
+    <string name="resend_code">Resend code</string>
+
+</resources>
